@@ -10,3 +10,5 @@ Thumbs.db
 # Dependencies & deployment
 node_modules
 .vercel
+
+.vercel
