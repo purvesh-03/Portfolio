@@ -1,0 +1,13 @@
+{
+  "name": "samurai-scroll-portfolio",
+  "version": "1.0.0",
+  "description": "Cinematic scroll-driven samurai animation sequence",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": ["samurai", "scroll-driven", "animation", "canvas", "webp"],
+  "author": "",
+  "license": "MIT"
+}

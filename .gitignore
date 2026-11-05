@@ -1,0 +1,12 @@
+# System & editor files
+.DS_Store
+Thumbs.db
+
+# Archives & temporary tests
+*.zip
+*.png
+*.log
+
+# Dependencies & deployment
+node_modules
+.vercel
